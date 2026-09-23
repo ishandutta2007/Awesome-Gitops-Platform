@@ -57,9 +57,9 @@ The table below lists top commercial SaaS GitOps platforms, sorted by estimated 
 
 ## ⚡ Open-Source GitHub Projects
 
-The leading open-source GitOps engines, progressive delivery operators, secrets managers, and policy frameworks—sorted by GitHub stars in descending order.
+The leading open-source GitOps engines, progressive delivery operators, secrets managers, and policy frameworks—sorted by GitHub_Stars in descending order.
 
-| Open-Source Project | Star Count ⭐️ | Description & Core Use Case |
+| Open-Source Project | Stars_Count ⭐️ | Description & Core Use Case |
 | :--- | :--- | :--- |
 | **[Argo CD](https://github.com/argoproj/argo-cd)** | <a href="https://github.com/argoproj/argo-cd/stargazers"><img stroke="white" fill="white" src="https://img.shields.io/github/stars/argoproj/argo-cd?style=social&color=white" alt="Argo CD Stars"/></a> | Declarative, GitOps continuous delivery tool for Kubernetes (CNCF Graduated) featuring a rich web UI, multi-cluster management, and ApplicationSet controller. |
 | **[Argo Workflows](https://github.com/argoproj/argo-workflows)** | <a href="https://github.com/argoproj/argo-workflows/stargazers"><img stroke="white" fill="white" src="https://img.shields.io/github/stars/argoproj/argo-workflows?style=social&color=white" alt="Argo Workflows Stars"/></a> | Open-source container-native workflow engine for orchestrating parallel jobs, CI pipelines, and data processing on Kubernetes. |
